@@ -1,0 +1,4 @@
+Wprowadzenie
+- informacje o zaliczeniu
+- GIT - teoria
+- GIT - praktyka no i cwiczenia
